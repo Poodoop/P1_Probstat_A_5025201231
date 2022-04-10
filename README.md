@@ -16,8 +16,6 @@ c. berdasarkan output a dan b tersebut, dapat disimpulkan bahwa peluang distribu
 d. untuk mendapatkan histogram, dapat menggunakan fungsi hist.
 
 e. rumus dari rata-rata distribusi geometrik adalah 1/p, dan rumus dari variansi distribusi geometrik adalah (1-p) / (p^2), dimana p adalah peluang berhasil.
-rata-rata : 5
-variansi : 20
 
 # Soal 2
 
@@ -43,3 +41,11 @@ c. disini, variansi dan rata-rata sama dengan rata-rata kejadian, karena menggun
 
 # Soal 4
 
+a. untuk mencari peluang dan distribusi chisquare, kita dapat menggunakan fungsi dchisq, dimana 
+x adalah 2 dan v adalah 10
+
+b. kita dapat menggunakan fungsi hist untuk histogram dari 100 data acak
+
+c. rumus dari rata-rata distribusi chisquare adalah v, dan rumus dari variansi distribusi chisquare adalah 2 * v, dimana v adalah peluang berhasil.
+
+# Soal 5
