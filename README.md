@@ -41,10 +41,13 @@ c. disini, variansi dan rata-rata sama dengan rata-rata kejadian, karena menggun
 
 # Soal 4
 
-a. untuk mencari peluang dan distribusi chisquare, kita dapat menggunakan fungsi dchisq, dimana 
-x adalah 2 dan v adalah 10
+![image](https://user-images.githubusercontent.com/55837575/162625365-df0f5e13-f098-4bc6-a659-3270e80b3aa5.png)
 
-b. kita dapat menggunakan fungsi hist untuk histogram dari 100 data acak
+a. untuk mencari peluang dan distribusi chisquare, kita dapat menggunakan fungsi dchisq, dimana 
+x adalah 2 dan v adalah 10.
+output : 0.0077
+
+b. kita dapat menggunakan fungsi hist untuk histogram dari 100 data acak.
 
 c. rumus dari rata-rata distribusi chisquare adalah v, dan rumus dari variansi distribusi chisquare adalah 2 * v, dimana v adalah peluang berhasil.
 
