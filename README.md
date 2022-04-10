@@ -29,3 +29,17 @@ output : 0.2182
 b. kita dapat menggunakan 0:20 untuk menunjukkan histogram dari keberhasilan minimum sampai keberhasilan maksimum.
 
 c. rumus dari rata-rata distribusi geometrik adalah n * p, dan rumus dari variansi distribusi geometrik adalah hasil rata-rata dikali (1 - p), dimana n adalah jumlah keberhasilan, dan p adalah peluang berhasil.
+
+# Soal 3
+
+![image](https://user-images.githubusercontent.com/55837575/162624354-d4d1124f-66ea-405b-a34a-99af5178961b.png)
+
+a. untuk mencari peluang suatu peristiwa 6 kelahiran yang terjadi pada satu hari, kita dapat menggunakan distribusi poisson dengan fungsi dpois, dimana 6 adalah jumlah kelahiran bayi, dan 4.5 adalah rata-rata kelahiran bayi dalam sehari.
+output : 0.1281
+
+b. kita dapat menggunakan fungsi hist untuk mencari histogram dari 365 hari.
+
+c. disini, variansi dan rata-rata sama dengan rata-rata kejadian, karena menggunakan distribusi poisson.
+
+# Soal 4
+
